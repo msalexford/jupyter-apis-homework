@@ -1,2 +1,3 @@
 # jupyter-apis-homework
-jupyter hw 1
+
+This assignment involved using the Weather API to practice accessing information nested within lists and dictionaries.
